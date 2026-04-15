@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: Copyright © 2024-2025 Idiap Research Institute <contact@idiap.ch>
+# SPDX-FileContributor: David Geissbühler <david.geissbuhler@idiap.ch>
+# SPDX-License-Identifier: Apache-2.0
+
+additionalProperties:
+  packageName: openbeers
+  npmName: openbeers-js
+  platform: browser
+  modelPropertyNaming: snake_case
+  paramNaming: snake_case
+  enumPropertyNaming: snake_case
+  licenseName: MIT
+  useSingleRequestParameter: false
+  removeOperationIdPrefix: true
+  withInterfaces: true
+  supportsES6: true
+files:
